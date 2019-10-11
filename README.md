@@ -1,5 +1,5 @@
 # OCLint - http://oclint.org
-
+wiki:https://www.jianshu.com/p/0fe8ed42d8d3
 [![Travis CI Status](https://api.travis-ci.org/oclint/oclint.svg?branch=master)](https://travis-ci.org/oclint/oclint) [![Coverage Status](https://coveralls.io/repos/github/oclint/oclint/badge.svg?branch=master)](https://coveralls.io/github/oclint/oclint?branch=master)
 
 OCLint is a static code analysis tool for improving quality and reducing defects

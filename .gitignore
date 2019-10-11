@@ -6,7 +6,7 @@ oclint-xcodebuild/
 googletest/
 llvm/
 build/
-
+oclint-xcodeproject/
 # Compile Commands
 compile_commands.json
 
